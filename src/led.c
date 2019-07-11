@@ -20,8 +20,6 @@
 
 // TODO: insert other include files here
 
-// TODO: insert other definitions and declarations here
-
 int main(void) {
 
 #if defined (__USE_LPCOPEN)
