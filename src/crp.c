@@ -1,6 +1,5 @@
 //*****************************************************************************
 // crp.c
-//
 // Source file to create CRP word expected by LPCXpresso IDE linker
 //
 // Copyright(C) NXP Semiconductors, 2013
