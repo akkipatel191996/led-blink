@@ -1,5 +1,5 @@
 /*
- * @brief Common SystemInit function for LPC17xx/40xx chips
+ //* @brief Common SystemInit function for LPC17xx/40xx chips
  *
  * @note
  * Copyright(C) NXP Semiconductors, 2013-14
