@@ -68,7 +68,14 @@ int main(void) {
     	    								for(j=0;j<2000;j++)
     	    			    	    	{}
     	    							}
-
+                       Board_LED_Set(0,false);
+                       Board_LED_Set(1,true);
+                       Board_LED_Set(2,false);
+                       for(k=0;k<5000;k++);
+                       {
+                       for(j=0;j<2000;j++)
+                       {}
+                   }
 
 
 
