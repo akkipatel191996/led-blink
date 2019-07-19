@@ -1,4 +1,4 @@
-/*
+//*
  //* @brief Common SystemInit function for LPC17xx/40xx chips
  *
  * @note
