@@ -6,7 +6,7 @@
  Copyright   : $(copyright)
  Description : main definition
 ===============================================================================
-*/
+*//
 
 #if defined (__USE_LPCOPEN)
 #if defined(NO_BOARD_LIB)
