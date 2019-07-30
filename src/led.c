@@ -23,7 +23,7 @@
 int main(void) {
 
 #if defined (__USE_LPCOPEN)
-    // Read clock settings and update SystemCoreClock variable
+    /// Read clock settings and update SystemCoreClock variable
     SystemCoreClockUpdate();
 #if !defined(NO_BOARD_LIB)
     // Set up and initialize all required blocks and
