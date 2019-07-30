@@ -20,6 +20,7 @@
  * representation or warranty that such application will be suitable for the
  * specified use without further testing or modification.
  *
+ *
  * @par
  * Permission to use, copy, modify, and distribute this software and its
  * documentation is hereby granted, under NXP Semiconductors' and its
