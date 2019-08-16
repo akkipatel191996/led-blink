@@ -4,7 +4,6 @@
  * @note
  * Copyright(C) NXP Semiconductors, 2013-14
  * All rights reserved.
-
  * @par
  * Software that is described here in is for illustrative purposes only
  * which provides customers with programming information regarding the
